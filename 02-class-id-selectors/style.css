@@ -1,0 +1,11 @@
+
+
+.number1 .number3 .number5 {
+    background-color: lightpink;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+#number2 {
+    background-color: white;
+    color: blue;
+    font-size: 36px;
+}
