@@ -1,16 +1,18 @@
-.number1 .number3 .number5 {
+.number {
     background-color: lightpink;
     font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
-.number3 {
-    font-size: 24px;
-}
-#number2 {
-    background-color: white;
+
+#id2 {
     color: blue;
     font-size: 36px;
 }
-#number4 {
+
+.number.sub{
+    font-size: 24px;
+}
+
+#id4{
     background-color: lightgreen;
     font-weight: bold;
     font-size: 24px;
